@@ -1,0 +1,1 @@
+These are configuration files for deploying AWS EC2 Instance using terraform
